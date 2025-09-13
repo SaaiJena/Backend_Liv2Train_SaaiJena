@@ -56,7 +56,7 @@ Go to: liv2train/src/main/resources/
 Create application.properties (or copy from application-example.properties if present), and fill:
 
 properties
-Copy code
+
 # --- MySQL datasource ---
 spring.datasource.url=jdbc:mysql://localhost:3306/liv2train?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC&characterEncoding=utf8
 spring.datasource.username=YOUR_USER
